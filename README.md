@@ -57,7 +57,7 @@ backend/
 ### Clone Repository
 
 ```bash
-git clone git@github.com:Adityabhardwaj14780/neurocore.git
+git remote add origin https://github.com/Adityabhardwaj14780/neurocore.git
 cd neurocore
 ```
 
