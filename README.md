@@ -1,7 +1,6 @@
 # NeuroCore
 
-AI-powered full-stack platform with authentication, API orchestration, and scalable backend architecture.
-
+NeuroCore is a full-stack TypeScript application focused on scalable backend architecture, secure authentication systems, and modern web engineering practices.
 ---
 
 ## Features
